@@ -9,12 +9,6 @@
   //}
 //}
 
-
-
-
-
-
-
 function myMove() {
   var elem = document.getElementById("animate");   
   var pos = 0;
@@ -30,3 +24,9 @@ function myMove() {
     }
   }
 }
+
+
+
+
+
+
